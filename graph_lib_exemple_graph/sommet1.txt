@@ -1,0 +1,6 @@
+5
+0 30 82 150 rat
+1 20 88 418 cochon
+2 10 382 417 homme
+3 0 391 156 bacterie
+4 100 658 413 requin
